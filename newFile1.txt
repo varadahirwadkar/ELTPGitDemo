@@ -5,6 +5,7 @@ change 1:-> For login feature for WI1. Updated login feature
 change 2:-> For bug1 fix.
 change 3:-> By team mate on master for WI4.
 change 4:-> Fdor bug2 fix.
-change 6:->
+
+change 7:-> WI:7
 
 
