@@ -2,10 +2,16 @@
 Hello World!
 
 change 1:-> For login feature for WI1. Updated login feature for ccr1. on remote server updated by team member
+
+change 1:-> For login feature for WI1. Updated login feature enhance login feature local master
+ Enhancemnet1:file1 is updated for change 1 and 8 on local master
 change 2:-> For bug1 fix.
 change 3:-> By team mate on master for WI4.
 change 4:-> Fdor bug2 fix.
 
 change 7:-> WI:7
+
 change8:-> totest the rebase with conflict by tema member on remote master cr2.
+change 9:-> updated for local master to test rebase fro enhancememnt 1
+Enhancemnet1:file1 is updated for change 1 and 8 on local master
 
