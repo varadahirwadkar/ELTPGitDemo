@@ -30,3 +30,4 @@ upload_files() {
 run_script
 setup_git
 commit_files
+upload_files
